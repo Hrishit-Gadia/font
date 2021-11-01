@@ -1,0 +1,33 @@
+Body {
+    background-color: black;
+    color: black;
+    font-family: 'Ephesis', cursive;
+}
+
+.Text {
+    white-space: normal;
+}
+
+.Footer {
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    color: black;
+    background-color: grey;
+}
+#Link {
+    color: cyan;
+}
+
+.XYZ {
+    box-shadow: 5px 5px 5px lightblue;
+}
+
+canvas {
+    background-color: wheat;
+}
+
+#Topic {
+    color: cyan;
+}
